@@ -1,11 +1,11 @@
-import Navbar from "./Navbar";
-import BodyTop from "./BodyTop"; 
+import Navbar from "./Navbar.jsx";
+import BodyTop from "./BodyTop.jsx"; 
 import { Routes, Route } from "react-router-dom";
-import Profile from "../Profile";
-import Foods from "../Foods";
-import Offers from "../Offers";
-import AboutUs from "../AboutUs";
-import Cart from "../Cart";
+import Profile from "../Profile.jsx";
+import Foods from "../Foods.jsx";
+import Offers from "../Offers.jsx";
+import AboutUs from "../AboutUs.jsx";
+import Cart from "../Cart.jsx";
 
 const MainContainer = () => {
   return (  
